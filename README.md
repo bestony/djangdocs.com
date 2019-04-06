@@ -1,13 +1,14 @@
-# 欢迎加入 Django 文档翻译团队
-
-感谢你的加入，让 Django 生态能够变得更好！
-
-点击左侧的菜单，就可以看到具体的内容了。
-
-## 建议查看顺序
-
-1. 角色权限说明
-2. 如何加入翻译团队
-3. 中文排版指南
-4. 如何翻译文档
-5. 术语表
+---
+home: true
+heroImage: https://postimg.aliavv.com/picgo/20190406102457.svg
+actionText: 开始翻译 →
+actionLink: /guide/how-to-start.md
+features:
+- title: 官方同步
+  details: 采用官方推荐的 Transifex 的方式进行翻译，你的每一句翻译都将推送至 Django 官方文档。
+- title: QQ 群沟通
+  details: 翻译过程中你有任何文档，都可以加入 QQ 群，在群内进行沟通协作。
+- title: 帮助文档
+  details: 为了帮助你更好的参与翻译，我们准备了丰富的翻译文档，帮助你更好的参与翻译。
+footer: Join us
+---
