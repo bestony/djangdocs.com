@@ -9,7 +9,7 @@
 2. Fork [项目](https://github.com/bestony/djangdocs.com)
 3. 将自己的项目 Clone 到本地。
 4. 在本地进行修改。
-5. 提交 commit 到 Coding。
+5. 提交 commit 到 Github。
 6. 在 Github 提交 Pull Request。
 7. PR 被合并，项目上线。
 
